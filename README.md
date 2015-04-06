@@ -9,6 +9,6 @@ $ git commit -m "first commit"
 $ git remote add origin 
 $ git push -u origin master
 
-# hash sentence inside quotes
+# hash sentence inside quotes.
 '''
 # When you want to add the file from directory to online repository
