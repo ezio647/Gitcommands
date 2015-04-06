@@ -1,7 +1,6 @@
 # Git Commands for the <b>first time</b> !
 
 ##Here are the commands:
-
 ``` sh
 $ git init
 $ git add README.md
@@ -14,5 +13,5 @@ $ git push -u origin master
 ### No more username and password for every push.
 ``` sh
 git remote set-url origin git@github.com:ezio647/Gitcommands.git
-
+git remote set-url origin https://github.com/ezio647/Gitcommands.git
 ```
