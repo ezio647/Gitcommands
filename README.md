@@ -11,4 +11,6 @@ $ git push -u origin master
 
 # hash sentence inside quotes.
 ```
-# When you want to add the file from directory to online repository
+### No more username and password for every push.
+``` sh
+git remote set-url origin git@github.com:ezio647/Gitcommands.git
