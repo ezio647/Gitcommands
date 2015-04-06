@@ -1,4 +1,4 @@
-Git Commands for the <b>first time<b> !
+Git Commands for the <b>first time</b> !
 $ git init
 $ git add README.md
 $ git commit -m "first commit"
