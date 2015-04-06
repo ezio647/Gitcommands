@@ -2,7 +2,7 @@
 
 ##Here are the commands:
 
-```
+```sh
 $ git init
 $ git add README.md
 $ git commit -m "first commit"
