@@ -15,3 +15,7 @@ $ git push -u origin master
 git remote set-url origin git@github.com:ezio647/Gitcommands.git
 git remote set-url origin https://github.com/ezio647/Gitcommands.git
 ```
+
+* bullet list 1
+* bullet list 2
+* added now on 12/04/2014
